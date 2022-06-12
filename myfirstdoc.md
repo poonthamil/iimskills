@@ -17,4 +17,4 @@ Industrial IoT is the core technology of the industry 4.0 revolution. The IoT is
 |S.No| Name|Class|
 |---|----|----|
 |1|Poonthamil|2|
-
+|2|Ajitha|1|
