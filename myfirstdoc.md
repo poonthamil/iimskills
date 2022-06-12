@@ -12,3 +12,9 @@ Industrial IoT is the core technology of the industry 4.0 revolution. The IoT is
 - Cloud computer systems for storing a large amount of data from disparate sources.
 - Advanced data analytics tools and platforms to make real-time decisions through analyzing huge troves of data.
 - Skilled employees who can ensure proper manufacturing process
+![iiot-platforms-growth-manufacturing](https://user-images.githubusercontent.com/48350820/173223361-c0bcb0a6-6ffc-44c3-aeb5-0aa018ddfd95.png)
+ 
+|S.No| Name|Class|
+|---|----|----|
+|1|Poonthamil|2|
+
