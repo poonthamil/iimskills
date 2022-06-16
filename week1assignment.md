@@ -41,7 +41,6 @@ Leveraging blockchain-based EHR systems can outperform well than existing centra
 <p align="center">
  <b>Fig. 2:</b> Impact of blockchain-based EHR on every aspect of healthcare delivery
  </p>
-
 ## Challenges and Limitations of Blockchain   
 Though blockchain provides the intangible benefits, it has some significant challenges and limitations in the healthcare context.   
 - *Lack of Interoperability* - Interoperability plays an essential role in enabling interaction among different blockchain networks. As there are no unified standards for blockchain, it may pose interoperability challenges when multiple blockchains are involved in the healthcare network that is based on different consensus mechanisms and smart contracts.  
