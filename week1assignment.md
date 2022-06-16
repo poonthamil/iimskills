@@ -8,6 +8,9 @@ Blockchain is a kind of distributed ledger technology (DLT) and an immutable sha
 Blockchain generates a cryptographic hash for individual blocks of patient health records. A blockchain is an unbreakable and unalterable chain of blocks. As a consequence, even a single illicit alteration will get reflected across the entire network which in turn makes the healthcare network highly trustworthy with greater transparency. The immutable shared ledger is responsible for validating all the blocks and transactions in a blockchain network through executing smart contracts and consensus mechanisms. If any block contains an error, it will be visible to all the network participants.  
 
 ![Neutral Brown Simple Process Flow Mind Map](https://user-images.githubusercontent.com/48350820/173759941-ffb5a6fc-98e1-4493-b6ce-2e368990d161.png)
+<p align="center">
+ <b>Fig. 1:</b> Blockchain taxonomy in healthcare
+ </p>
 
 ### Smart Contracts
 A smart contract is a kind of simple program or agreement that is stored on a blockchain ledger. It will be automatically executed when the predefined conditions are met. Similarly, smart contracts eliminate the need for third-party intermediaries between buyer and seller which makes the entire blockchain network immutable and tamperproof.   
@@ -35,6 +38,9 @@ Nevertheless, EHR is constantly facing data security, integrity, and interoperab
 Leveraging blockchain-based EHR systems can outperform well than existing centralized architecture in terms of accessibility, security, and scalability. The decentralized nature of blockchain could streamline the cost of implementation and transaction times due to its fewer overhead and intermediaries.   
 
 ![White Navy Simple Minimalist Online Business Infographic](https://user-images.githubusercontent.com/48350820/173777033-c7442227-c1ff-4a84-9fd0-19be04d2fadf.png)
+<p align="center">
+ <b>Fig. 2:</b> Impact of blockchain-based EHR on every aspect of healthcare delivery
+ </p>
 
 ## Challenges and Limitations of Blockchain   
 Though blockchain provides the intangible benefits, it has some significant challenges and limitations in the healthcare context.   
