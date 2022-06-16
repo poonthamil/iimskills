@@ -18,7 +18,7 @@ Blockchain generates a cryptographic hash for individual blocks of patient healt
 ### Smart Contracts
 A smart contract is a kind of simple program or agreement that is stored on a blockchain ledger. It will be automatically executed when the predefined conditions are met. Similarly, smart contracts eliminate the need for third-party intermediaries between buyer and seller which makes the entire blockchain network immutable and tamperproof.   
 
-Smart contracts provide a wide range of benefits such as speed, efficiency, accuracy, trust, transparency, security, and savings.  Most importantly, it significantly reduces the risks and issues in the drug traceability which will increase the supply chain transparency.  
+Smart contracts provide a wide range of benefits such as speed, efficiency, accuracy, trust, transparency, security, and savings.  Most importantly, it significantly reduces the risks and issues in the drug traceability which will increase the supply chain transparency.   
 ### Consensus Mechansims
 Blockchain uses consensus mechanisms to ensure the data in the public ledgers are synchronized across all the nodes in the network. It also guarantees that all the transactions are legitimate and regularly verifies that every node is connected to the same network.  Likewise, consensus mechanisms confirm while adding a new block to the chain. As a result, it prevents malicious participants from attempting to alter the data which in turn makes the network highly fault-tolerant.   
 
