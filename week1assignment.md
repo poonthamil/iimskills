@@ -1,5 +1,5 @@
 # Blockchain Empowered Smart Healthcare Systems
-## Introduction
+## Introduction 
 Over the past few years, the healthcare landscape has been revolutionized with the rapid growth of emerging technologies for healthcare monitoring. Digital transformation paves the way to facilitate personalized healthcare for patients. However, privacy and security become the primary concern while implementing sophisticated technologies in healthcare. 
 
 Blockchain is one of the most disruptive technologies of the next decade that will make patient records more efficient, secure, and, reliable. Blockchain has emerged as a promising solution for cyber security breaches and it ensures a secure way of transferring health records across various healthcare providers.  
